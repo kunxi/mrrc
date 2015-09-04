@@ -1,2 +1,3 @@
 [$HOME/.config/vcsh/repo.d/neobundle.git]
 checkout = mkdir -p ~/.vim/bundle; VCSH_BASE=~/.vim/bundle/neobundle.vim vcsh clone https://github.com/Shougo/neobundle.vim neobundle
+push = echo "Ignore ..."
