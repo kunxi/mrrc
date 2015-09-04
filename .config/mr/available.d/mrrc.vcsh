@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/mrrc.git]
+checkout = vcsh clone git@github.com:kunxi/mrrc.git mrrc
